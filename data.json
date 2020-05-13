@@ -1,0 +1,13 @@
+{
+  "Name": "Shristi",
+  "Age" : 24,
+  "Height" : 168,
+  "Education" : "Masters of Information Techonology",
+  "Occupation" :    "Consulting Engineer",
+  "Hobbies" : [ "Cooking" ,
+               "Calligraphy",
+            "Dancing",
+            "Trekking"
+           ],
+  "EMP ID": 345
+}

@@ -1,0 +1,14 @@
+
+{
+  "user": {
+    "name": "Ashutosh",
+    "location": {
+      "state" : "UP",
+      "Country": "India"
+    },
+    "roles": [
+      "Engineer",
+      "Networks"
+    ]
+  }
+}

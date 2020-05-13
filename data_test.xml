@@ -1,0 +1,14 @@
+
+<?xml version = "1.0" encoding="UTF-8"?>
+<root>
+    <user>
+      <name>ASHUTOSH</name>
+      <location>
+        <city>Ballia</city>
+        <state>UP</state>
+        <country>India</country>
+      </location>
+      <roles>Engineer</roles>
+      <roles>Network</roles>
+    </user>
+</root>

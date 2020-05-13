@@ -1,0 +1,10 @@
+
+---
+user:
+  name: Ashu
+  location:
+    state: UP
+    country: India
+  roles:
+    - Engineer
+    - Networks

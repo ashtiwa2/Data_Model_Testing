@@ -1,0 +1,11 @@
+{
+    "name": "Ashutosh",
+    "location": {
+        "state": "Bangalore",
+        "Country": "India"
+    },
+    "roles": [
+        "Engineer",
+        "Networks"
+    ]
+}
